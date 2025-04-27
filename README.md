@@ -1,0 +1,1 @@
+survey adatfeldolgozás github szorgalmi
