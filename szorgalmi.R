@@ -9,3 +9,5 @@ ggplot(data, aes(x = category, y = value, fill = category)) +
   geom_bar(stat = "identity")+
   labs(title = "Category Values", x = "Category", y = "Value")
 
+mean_value <- mean(data$value)
+median_value <- median(data$value)
